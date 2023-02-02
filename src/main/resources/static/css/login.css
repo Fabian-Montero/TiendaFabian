@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 feb. 2023, 20:34:20
+    Author     : fabia
+*/
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Krub:wght@400;700&family=Nunito:wght@200;500;800&display=swap');
+</style>
+
+.{
+margin:0
+padding:0
+font-family: 'Krub', sans-serif;
+font-family: 'Nunito', sans-serif;
+}
+
+body{
+    background: linear-gradient(120deg,#E68BFA);
+    height:100vh;
+    overflow:hidden;
+}
